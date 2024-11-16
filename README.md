@@ -2,7 +2,8 @@
 ## Architecture
 
 Attach the architecture diagram. It should visually explain the flow of the system, starting from data collection to job recommendations.
-![Architecture Diagram](Architecture.drawio (1)-1.jpg)
+![Architecture Diagram](https://github.com/Aditi-bairagi61/7-Clustering/blob/main/Architecture.drawio%20(1)-1.jpg?raw=true)
+
 
 
 ---
