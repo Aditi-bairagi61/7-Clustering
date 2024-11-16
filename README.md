@@ -1,13 +1,8 @@
 
-# Job Recommendation System using AI
-
-This project leverages AI techniques to recommend job roles based on user-provided skills. It uses data clustering and similarity-based matching to enhance the accuracy of recommendations. The following sections outline the methodology, steps, and insights gained during the development of the project.
-
----
-
 ## Architecture
 
-Attach the architecture diagram (use `Architecture.drawio.pdf` for the GitHub repository). It should visually explain the flow of the system, starting from data collection to job recommendations.
+Attach the architecture diagram. It should visually explain the flow of the system, starting from data collection to job recommendations.
+
 
 ---
 
@@ -79,20 +74,5 @@ Attach the architecture diagram (use `Architecture.drawio.pdf` for the GitHub re
 | `Architecture.drawio.pdf`  | Architecture diagram for the system.           |
 | `job_recommendation.py`    | Script to cluster data and recommend jobs.     |
 
----
 
-## How to Run the Project
-1. **Clone the Repository**: Download the project files to your local machine.
-2. **Install Dependencies**: Use a package manager to install required Python libraries (e.g., Pandas, Scikit-learn).
-3. **Run the System**: Execute the script to see job recommendations based on user-inputted skills.
-4. **Visualize Clusters**: Run the visualization steps to explore the structure of the job clusters.
 
----
-
-## Future Work
-- **Expand Data Coverage**: Include more job categories and skills to improve recommendations.
-- **Integrate with External Platforms**: Connect the system with LinkedIn or job portals for real-time updates.
-- **Enhance Clustering**: Explore advanced clustering algorithms for better accuracy.
-- **Develop an API**: Create an API to enable external integration and real-time user interaction.
-
----
