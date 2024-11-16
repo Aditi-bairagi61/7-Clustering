@@ -2,6 +2,7 @@
 ## Architecture
 
 Attach the architecture diagram. It should visually explain the flow of the system, starting from data collection to job recommendations.
+![Architecture Diagram](Architecture.drawio (1)-1.jpg)
 
 
 ---
